@@ -1,0 +1,16 @@
+Cientistas devem estar atentos aos riscos das evidências enganosas
+Estudo sobre física publicado na revista “Nature” gera reflexão a respeito das decisões tomadas durante trabalho científico
+
+Por Júlio Bernardes
+
+
+
+Na coluna Ciência e Cientistas, o físico Paulo Nussenzveig reflete sobre o cuidado que quem faz ciência precisa ter com as evidências que analisa, em seu trabalho a partir de um estudo publicado pela revista Nature, em 8 de março. “O trabalho havia sido publicado por um grupo holandês que afirmava ter obtido evidência conclusiva da preparação de partículas chamadas férmions de Majorana, que despertam muito interesse por sua potencial aplicação em computadores quânticos”, conta. “Em 1937, o físico italiano Ettore Majorana previu a existência de partículas que seriam suas próprias antipartículas. Mais recentemente, surgiram propostas para confirmar a previsão de Majorana com quase-partículas, combinando propriedades de semicondutores e supercondutores. Devido a condições especiais de simetrias, as equações que governam a física desses sistemas assumem a mesma forma matemática do trabalho de Majorana.”
+
+Segundo Nussenzveig, uma das previsões teóricas sobre os férmions de Majorana é que eles têm propriedades topológicas, o que significa que suas características principais não se alteram sob deformações. “Na computação quântica, as unidades básicas de informação, os bits, são substituídas por bits quânticos, os qubits. Mas a informação codificada em qubits é muito frágil e pode ser perdida por interações com os sistemas físicos que os cercam, genericamente chamados de ‘ambiente'”,relata. “Qubits topológicos prometem ser muito menos sensíveis ao ambiente e, portanto, fornecem um caminho promissor para o desenvolvimento de computadores quânticos, um objetivo que tem sido perseguido no mundo inteiro e pelo qual gigantes como Google, IBM e Microsoft estão competindo.”
+
+“Após resultados promissores de um grupo da Universidade de Delft, em 2012, a Microsoft resolveu investir em qubits topológicos e criou um centro de pesquisa na Holanda, liderado por Leo Kouwenhoven”, aponta o físico. “Em 2018, o grupo dele publicou o trabalho na revista Nature, afirmando ter obtido evidências conclusivas da criação dos férmions de Majorana. O trabalho já recebeu mais de 300 citações. Mas estava errado!”
+
+Ciência e Cientistas
+A coluna Ciência e Cientistas, com o professor Paulo Nussenzveig, vai ao ar quinzenalmente toda quarta-feira às 10h50, na Rádio USP (São Paulo 93,7 FM; Ribeirão Preto 107,9 FM) e também no Youtube, com produção do Jornal da USP e TV USP.
+

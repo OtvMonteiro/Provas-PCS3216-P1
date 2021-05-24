@@ -1,0 +1,17 @@
+Pesquisadores constroem bioprocessador dual-core em célula humana
+Imagem de: Pesquisadores constroem bioprocessador dual-core em célula humana
+Recentemente, pesquisadores do Instituto Federal de Tecnologia de Zurique, na Suíça, fizeram uma descoberta capaz de oferecer grande ajuda na construção de biocomputadores: a criação de um bioprocessador dual-core em célula humana.
+
+Segundo informações divulgadas pela equipe responsável pelo projeto, esse biocomputador se baseia em uma técnica de edição genética conhecida como CRISPR-Cas9, que conta com núcleos processadores que podem ser reprogramados.
+
+De acordo com as explicações dos cientistas, o uso de células humanas auxilia no que diz respeito a tirar proveito da “capacidade computacional” metabólica, já que elas podem processar até 100 mil moléculas metabólicas diferentes e cada uma funciona como uma entrada para o processador.
+
+
+
+Como tudo funciona?
+Para gerar o poder necessário, uma variante especial da proteína Cas9 fica responsável por formar o núcleo do processador. A CPU é capaz de regular a expressão de um gene em específico utilizando como resposta a entrada fornecida pela sequência de RNA guia, e com esse processo é possível a programação de circuitos escalonáveis nas células humanas, sem a necessidade de desenvolver um processador para cada tarefa.
+
+Graças a esses passos, o time foi capaz de usar componentes CRISPR-Cas9 de duas bactérias diferentes para criar um processador biológico dual-core semelhante ao que vemos no mundo dos equipamentos eletrônicos.
+
+“Imagine um microtecido com bilhões de células, cada uma equipada com seu próprio processador dual-core. Esses ‘órgãos computacionais’ poderiam, teoricamente, alcançar um poder de computação que ultrapassa em muito o de um supercomputador digital — e usando apenas uma fração de energia”, explicou o professor Martin Fussenegger, um dos responsáveis por esse projeto.
+

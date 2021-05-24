@@ -1,0 +1,25 @@
+
+Microsoft 'perde' conquista em computação quântica e se retrata
+Imagem de: Microsoft 'perde' conquista em computação quântica e se retrata
+Um polêmico estudo publicado em 2018 por uma equipe da Microsoft, no qual pesquisadores alegavam terem encontrado evidências de que uma partícula subatômica poderia auxiliar o desenvolvimento de computadores quânticos, mais poderosos que os convencionais, foi retirado do ar pela revista Nature.
+
+O veículo anunciou o evento por meio de uma nota de retratação, e os autores do artigo pediram desculpas pelo "rigor científico insuficiente" apresentado, além de elencarem erros cometidos, como "correções desnecessárias" de dados sem a devida clareza e a rotulação incorreta de um gráfico, fato que o tornou enganoso.
+
+De todo modo, a gigante da tecnologia reforça que continua confiante em seus esforços mais amplos para atingir resultados na área, vista como um salto potencialmente revolucionário para a humanidade.
+
+Computadores quânticos seriam muito mais poderosos que os convencionais.Fonte:  Reprodução 
+
+Por exemplo, se em máquinas tradicionais a unidade de informação (bit) pode ter o valor de 1 ou 0, sua equivalente quântica é capaz de apresentar ambos ao mesmo tempo, possibilitando a realização de múltiplos cálculos simultaneamente.
+
+Entretanto, para se chegar a esse cenário, especialistas se dedicam à construção de dispositivos funcionais e comercialmente competitivos – e o desafio, ao que parece, não está tão próximo quanto algumas alegações dão a entender.
+
+Nem tudo é o que parece
+IBM, Google, Intel, D-Wave e IonQ são algumas companhias que buscam contornar os obstáculos da computação quântica, e a Microsoft, dentre elas, decidiu apostar na criação de qubits com propriedades da quasipartícula férmion de Majorana, sugerida pela primeira vez na década de 1930 pelo físico italiano Ettore Majorana e encontrada por cientistas holandeses em 2012.
+
+"É um desafio profundamente mais exótico do que o que está acontecendo com outras abordagens de computação quântica", disse Charlie Marcus à BBC News em 2018, um dos pesquisadores do projeto.
+
+Ettore Majorana, físico italiano que descobriu a partícula.Fonte:  Reprodução 
+
+Segundo a empresa, a particularidade do elemento, neutro e, ao mesmo tempo, sua própria antipartícula, tornaria as unidades menos propensas a erros. Análises posteriores, por outro lado, não foram gentis com a suposta conquista.
+
+Desde sua fundação, em 1869, a revista Nature removeu apenas 79 publicações de sua plataforma, oito delas somente em 2020. A Microsoft, então, conquistou seu espaço – não muito desejado, diga-se de passagem.

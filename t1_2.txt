@@ -1,0 +1,29 @@
+
+Computador alcança a supremacia quântica
+Imagem de: Computador alcança a supremacia quântica
+Imagem: XinhuaNet/Reprodução
+Em 2011, o cientista da computação Scott Aaronson, da Universidade do Texas, delineou os fundamentos do que seria um computador quântico baseado em luz mas, frente à opinião de colegas físicos de que ele jamais funcionaria, engavetou o projeto – para vê-lo concretizado nove anos depois. “Não achei que isso aconteceria tão cedo. Tiro meu chapéu para eles.” Aaronson se referia aos físicos Chao-Yang Lu e Jian-Wei Pan, que tornaram possível ao computador quântico Jiuzhang alcançar a supremacia quântica nesta sexta (4).
+
+. South China Morning Post/ 
+Essa expressão se refere ao poder de um computador quântico em resolver problemas que computadores clássicos não conseguiriam — pelo menos, não em tempo hábil. Em 2019, a Google reivindicou para si o feito, com o Sycamore, que precisou de apenas três minutos para fazer o mesmo cálculo que demandaria três dias para um supercomputador alcançar o mesmo resultado.
+
+Enquanto o Sycamore usa supercondutores para formar qubits, no Jiuzhang os próprios fótons são os bits quânticos. Para realizar o mesmo cálculo que o computador quântico fez agora, seu colega chinês Sunway TaihuLight, o terceiro supercomputador mais poderoso do mundo, levaria 2,5 bilhões de anos.
+
+Construído na Universidade de Ciência e Tecnologia da China (USTC) em Xangai, o Jiuzhang tem uma configuração complicada: um laser na estrutura atinge 25 cristais feitos de fosfato de titanil potássio — ao serem atingidos, cada um deles libera dois fótons em direções opostas. Estes são, então, enviados por 100 caminhos diferentes, percorrendo trilhas feitas com 300 prismas e 75 espelhos. Finalmente, eles caem em 100 canaletas diferentes, onde são detectados.
+
+. USTC/Divulgação 
+Nem tão grande assim
+A Wikipedia nos ensina que “um computador quântico é um dispositivo que executa cálculos fazendo uso direto de propriedades da mecânica quântica, tais como sobreposição e interferência.”
+
+Ao perceber que um computador quântico fotônico universal demandaria milhões de lasers, espelhos e outros dispositivos ópticos, a comunidade científica enterrou a ideia — até que Aaronson e o físico Alex Arkhipov, à época seu aluno, tiveram a ideia de usar o conceito de amostragem de bóson: o computador quântico teria apenas alguns lasers, espelhos, prismas e detectores de fótons.
+
+Para tentar compreender como funciona a amostragem de bóson no Jiuzhang, podemos usar o tabuleiro de Galton.
+
+Simular a distribuição das bolas pelas canaletas não é um trabalho complicado para um computador. No caso de um quântico, a amostragem de bósons usa fótons em vez de bolinhas; os espelhos e prismas são os pinos por onde elas correm.
+
+Goles de moléculas
+Os fótons dos lasers ricocheteiam em espelhos através de prismas até caírem nas canaletas para serem detectados. Ao contrário das bolas clássicas, as propriedades quânticas do fóton levam a um número exponencialmente crescente de distribuições possíveis.
+
+Os esquemas de amostragem de bósons não resistem a um número baixo de fótons. Para preservar o arranjo quântico sensível, eles devem permanecer indistinguíveis. Os que percorrem os caminhos estreitos dentro do Jiuzhang cobrem uma distância de 22 metros e suas posições não se destacam uma das outras mais que 25 nanômetros. “Isso é o equivalente a 100 cavalos percorrendo 100 quilômetros e cruzando a linha de chegada com no máximo um fio de cabelo entre eles”, disse Chao-Yang Lu.
+
+Para o sucesso alcançado nessa sexta, os fótons precisam ser gerados em sua forma mais pura possível, produzidos um após o outro. “É fácil para qualquer um tomar água em goles comedidos, mas é difícil beber apenas uma molécula de cada vez”, disse Pan.

@@ -1,0 +1,19 @@
+Prótese biônica tem resposta mais rápida do que mão humana
+Imagem de: Prótese biônica tem resposta mais rápida do que mão humana
+Cientistas da Escola Politécnica Federal de Lausanne, na Suíça, anunciaram o desenvolvimento de uma prótese biônica capaz de traduzir os comandos enviados pelo cérebro dos usuários e responder mais depressa do que uma mão humana. O dispositivo combina elementos de robótica com tecnologias de neuroengenharia e permite que pessoas amputadas tenham muito mais controle sobre os movimentos e funções da mão prostética.
+
+Mão biônica
+O funcionamento da prótese está baseado em sensores que são colocados no coto da pessoa amputada e que são capazes de detectar a atividade muscular quando o paciente tenta movimentar os dedos – que já não estão lá. Além disso, os pesquisadores desenvolveram um algoritmo de machine learning que, ademais de decodificar os impulsos neuromusculares enviados pelo cérebro da pessoa e que são registrados pelos sensores, interpreta os sinais e aprende os movimentos para treinar o sistema e melhorar o desempenho da prótese. Veja a seguir:
+
+De acordo com os cientistas, para que o algoritmo aprenda a decodificar as intenções do usuário e traduzi-las nos movimentos dos dedos da prótese, a pessoa precisa realizar uma variedade de movimentos para que o sistema aprenda a identificar qual atividade muscular corresponde a qual ação.
+
+Com isso, depois que o algoritmo entende as intenções do usuário, o amputado consegue controlar cada dedo da mão biônica de maneira independente. Mas tem mais: a prótese também é equipada com sensores de pressão que “ensinam” o algoritmo a reagir sempre que o dispositivo entra em contato com um objeto qualquer para que os dedos se fechem automaticamente sobre ele, mesmo na ausência de informações visuais.
+
+O resultado dessa combinação de tecnologias faz com que a resposta do equipamento seja como o de uma mão de verdade. Bem, na verdade, a reação é ainda mais rápida. Para se ter ideia, quando seguramos algo e esse objeto começa a deslizar de nossa mão, nós temos apenas um par de milissegundos para reagir e não deixar a coisa cair. Já a prótese – que possui sensores nos dedos – consegue estabilizar o objeto e segurá-lo antes mesmo de o cérebro se dar conta que ele está escapulindo e possa responder.
+
+Próteses do futuro
+O sistema foi testado por 10 pessoas – 3 amputadas e 7 não – e os resultados foram bastante impressionantes, tanto que os cientistas por trás do projeto acreditam que, além de ser aplicada a próteses, a tecnologia poderia ser empregada em interfaces cérebro-computador com o objetivo de ajudar pacientes com mobilidade limitada.
+
+(Fonte: TechVati / Reprodução)
+Ainda é necessário refinar o algoritmo e trabalhar no sistema até que as mãos biônicas possam sair dos laboratórios e sejam disponibilizadas para quem precisa delas. Já sobre os pacientes paralisados, considerando que já existem iniciativas focadas no desenvolvimento de dispositivos superflexíveis que podem dar origem a implantes cerebrais com potencial de melhorar a comunicação de pessoas incapazes de se mover com máquinas e ajudar que elas se ganhem mais autonomia – a Neuralink, fundada por Elon Musk, é uma das startups trabalhando nessa área –, os avanços não devem demorar em chegar.
+

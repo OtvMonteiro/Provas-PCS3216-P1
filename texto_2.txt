@@ -1,0 +1,26 @@
+Computação Quântica 
+Grafeno torcido vai revolucionar a computação quântica
+Imagem de: Grafeno torcido vai revolucionar a computação quântica
+Imagem: Reprodução
+Trazendo a promessa de uma nova base de equipamentos eletrônicos, pesquisadores do MIT e das gigantes Google e IBM conseguiram transformar grafeno torcido em dispositivos funcionais, incluindo interruptores supercondutores como os utilizados em diversas máquinas quânticas.
+
+O feito dá continuidade a estudos de 2018, ano em que cientistas empilharam 2 cartas microscópicas de folhas de carbono com um átomo de espessura e as torceram ligeiramente. Depois, aplicaram um campo elétrico sobre o projeto e então viram a "mágica" acontecer.
+
+A novidade tem tudo para se tornar uma ferramenta por meio da qual é possível capturar e controlar elétrons e fótons individuais. "A ideia de que essa plataforma pode ser usada como um material universal não é fantasia e está se tornando um fato", defende Cory Dean, físico da Universidade Columbia, cujo laboratório foi um dos primeiros a confirmarem as propriedades supercondutoras do experimento.
+
+Um dos segredos é o chamado "ângulo mágico", já que girar as folhas de uma maneira específica (1,1°) faz com que milhares de átomos ajam em uníssono, em um comportamento coletivo que permite uma mudança radical de manifestação e fazendo com que o conjunto vá de isolante a condutor e, por fim, a supercondutor. Além disso, tais interações forçam elétrons a desacelerarem e "sentirem" as presenças uns dos outros, o que os alinha rapidamente aos requisitos exigidos.
+
+Com a descoberta, pode-se inserir propriedades desejadas em pequenas regiões das folhas e criar uma espécie de "portão" entre elas, submetendo-as a campos elétricos variados. "Uma vez exibido, o mundo se abriu", comemorou Klaus Ensslin, físico da ETH Zurique e coautor de um dos estudos.
+
+Klaus Ensslin, físico da ETH Zurique.Fonte:  Reprodução 
+
+Uma nova era
+Indo além nas conquistas, o grupo do MIT criou gadgets submicroscópicos para demonstrar a versatilidade da invenção, que, sintonizando o carbono em uma configuração condutor-isolante-supercondutor, são capazes de medir a força da ligação dos pares de elétrons. Além disso, desenvolveram um transistor que controla o movimento de uma única partícula.
+
+De qualquer modo, dispositivos de grafeno com ângulo mágico não devem representar perigo imediato à indústria de silício, já que demandam resfriamento próximo do zero absoluto para superconduzirem, e não se sabe como manter a torção precisa.
+
+"Se você quisesse fazer um dispositivo realmente complexo, seria necessário criar centenas de milhares de [substratos de grafeno] e essa tecnologia não existe", explicou Pablo Jarillo-Herrero, líder da pesquisa.
+
+Entretanto, isso não desanima os estudiosos, já que o material poderia eliminar entraves de reações químicas comuns nas soluções das quais dispomos hoje, assim como abrir novas portas para a computação quântica e até para o espaço, pois auxiliariam astrônomos em seus projetos.
+
+A especialista Eva Andrei, da Rutgers University, sintetizou as possibilidades falando: "É uma era realmente nova".

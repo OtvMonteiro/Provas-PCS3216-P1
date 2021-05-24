@@ -1,0 +1,16 @@
+Cientistas substituem DNA de bactéria e criam vida sintética
+Imagem de: Cientistas substituem DNA de bactéria e criam vida sintética
+Pesquisadores da Universidade de Cambridge, na Inglaterra, conseguiram substituir por completo o DNA da bactéria Escherichia coli (aquela que, de vez em quando, causa intoxicações alimentares). O código original foi trocado por um genoma sintético, fazendo com que o micro-organismo seja o primeiro ser vivo completamente reprogramado. A pesquisa foi publicada na revista Nature.
+
+O experimento, liderado pelo biólogo Jason Chin, criou um genoma artificial completo, com tudo que os cientistas acreditam ser necessário para a sobrevivência de um organismo — e nada que não seja imprescindível. O código foi substituindo o genoma original da E. coli até que ela não tivesse mais nenhum DNA natural.
+
+
+(Reprodução/Flickr)
+
+Como é um código genético supersimplificado, o novo DNA da bactéria tem menos códons que os outros seres vivos. Mas o que isso significa? O DNA é feito de proteínas, que são compostas por outros elementos, formados por quatro tipos de elementos sempre combinados em grupos de três — esses grupos são os códons.
+
+Todos os organismos usam a mesma quantidade de códons: 64; o que muda é apenas a combinação deles. No caso da E. coli desenvolvida pelos cientistas, são apenas 61 códons — e a bactéria está viva e se reproduzindo. O temor inicial dos pesquisadores era que ela não sobrevivesse ao transplante ou não crescesse, mas não parece ser o caso.
+
+O achado tem implicações significativas para o progresso científico. A tecnologia poderia ser utilizada para tornar espécies inteiras à prova de certas doenças, e alguns males poderiam ser tornados inofensivos por meio de uma reprogramação genética. Também há vantagens para quem desenvolve pesquisas, pois a manipulação do DNA possibilita a construção de formas de vida específicas para utilização em laboratório, diminuindo os custos do processo de cultivo de bactérias.
+
+O próximo passo dos pesquisadores é descobrir o quanto podem diminuir do genoma que já enxugaram. A expectativa é que, ao remover outros códons redundantes, possam abrir espaço para mais variações sintéticas.

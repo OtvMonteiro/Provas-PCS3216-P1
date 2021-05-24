@@ -1,0 +1,33 @@
+Em vez de memória flash, dados poderão ser armazenados em DNA
+Imagem de: Em vez de memória flash, dados poderão ser armazenados em DNA
+Imagem: ELIXIR/Reprodução
+Todos os dias, a humanidade produz cerca de 2,5 quintilhões de bytes, e essa montanha de dados digitais depende tanto da memória flash para ser armazenada como, indiretamente, de silício – mas o suprimento deste componente será insuficiente para suprir a demanda em menos de duas décadas. Qual a solução? Segundo pesquisadores da Universidade Estadual Boise, guardar os dados em DNA.
+
+“Nosso protótipo armazena informações em fitas de DNA espaçadas cerca de dez nanômetros – isso corresponde a um milésimo do diâmetro de um cabelo humano”, disse, em um artigo para o site The Conversation, o cientista e engenheiro de materiais Will Hughes, cuja equipe de pesquisa projeta, constrói e testa materiais, memória e máquinas feitas de biomoléculas.
+
+Publicada na revista Nature com o nome de Memória Digital de Ácido Nucléico (dNAM), a técnica usa o código quaternário de DNA – os nucleotídeos adenina (A), timina (T), citosina (C) e guanina (G) – para codificar informações. Segundo os autores do estudo, todos os dados digitais do planeta produzidos por dia poderiam ser armazenados em apenas 20 gramas de DNA.
+
+Origami
+“Sempre pensamos nele como repositório de informações genéticas, mas sabemos o bastante de sua biologia molecular para manipulá-lo e usá-lo como um data center”, disse em comunicado o biólogo e cientista de materiais George Dickinson, coautor da pesquisa.
+
+O processo usa a fita simples do DNA de um bacteriófago (vírus que parasitam bactérias), programando-a para se dobrar, para frente e para trás, através de um processo chamado "origami de DNA". O resultado é um retângulo com 48 pontos de conexão, tal qual uma placa perfurada – cada “furo” é um possível ponto de ligação com outras fitas simples de DNA.
+
+Uma nanoestrutura de origami pronta (à esquerda) e com as fitas de dados (à direita).Uma nanoestrutura de origami pronta (à esquerda) e com as fitas de dados (à direita).Fonte:  Nucleic Acid Memory Institute/Boise State University/Divulgação 
+
+Esses espaços são traduzidos com um 1; aqueles onde não há nenhuma fita de DNA conectada são lidos como zero. Tal qual um código binário, a mensagem codificada descrita no estudo é “Os dados estão em nosso DNA!”.
+
+No DNA dobrado, o preenchimento ou não dos espaços por outras biomoléculas codifica 1 (branco) ou 0 (cinza).No DNA dobrado, o preenchimento ou não dos espaços por outras biomoléculas codifica 1 (branco) ou 0 (cinza).Fonte:  Nucleic Acid Memory Institute/Boise State University/Divulgação 
+
+Se a inserção da mensagem em DNA foi aprovada com louvor, recuperá-la era o grande desafio. Para fazer isso, fitas fluorescentes de DNA foram emparelhadas com aquelas fincadas na “placa perfurada”, iluminando os filamentos que codificavam a informação e tornando possível lê-la. Os pesquisadores contaram ainda com a ajuda de um algoritmo que analisava a imagem para decifrar o padrão binário, recuperando a informação armazenada com 100% de precisão.
+
+“As fitas que configuram o código binário se acendem quando o DNA marcado com fluorescência se liga a elas, piscando sob o microscópio e tornando mais fácil ler as informações inseridas”, explicou Hughes.
+
+A codificação lida por microscopia de alta resolução.
+
+Caixa de joias
+Segundo o pesquisador, “o microscópio pode gerar imagens de centenas de milhares de retângulos de DNA em uma única gravação, e nossos algoritmos de correção de erros garantem a recuperação de todos os dados. Depois de contabilizar os bits usados pelos algoritmos, nosso protótipo foi capaz de ler dados a uma densidade de 330 gigabits por centímetro quadrado”.
+
+Como microscópios de alta resolução não são nem baratos nem comuns, a técnica não será tão comum como um pendrive – mas isso não torna a pesquisa apenas uma curiosidade.
+
+“Com o uso do DNA, seria possível armazenar cada tweet, email, foto, música, filme e livro já criado em um volume equivalente a uma caixa de joias. E os dados armazenados podem durar séculos, visto que a biomolécula tem meia-vida de mais de 500 anos”, diz Dickinson.
+

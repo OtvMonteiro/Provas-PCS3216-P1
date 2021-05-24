@@ -1,0 +1,16 @@
+Projeto de IA desvenda sua personalidade apenas pelo seu jeito de olhar
+Imagem de: Projeto de IA desvenda sua personalidade apenas pelo seu jeito de olhar
+Os olhos são uma janela para a alma, já dizia o poeta. Neste caso, um atalho para saber quem você é: um projeto criado por pesquisadores da Austrália e Alemanha usa o aprendizado de máquina da inteligência artificial (IA) para desvendar a personalidade de alguém apenas observando os movimentos oculares.
+
+Interações com robôs e computadores se tornarão mais naturais e eficazes se eles puderem se adaptar às interações com base nos sinais não verbais de uma pessoa
+
+“Vários trabalhos anteriores sugeriram que a maneira como movemos nossos olhos é modulada por quem somos - por nossa personalidade. Por exemplo, estudos sobre traços de personalidade e movimentos oculares sugerem que pessoas semelhantes tendem a mover os olhos de maneira semelhante. Os otimistas, por exemplo, gastam menos tempo prestando atenção em estímulos emocionais negativos — como imagens de câncer de pele — do que pessimistas. Indivíduos mais abertos passam mais tempo nos locais ao assistir animações abstratas”, comenta Andreas Bulling, professor do Instituto Max Planck de Informática da Alemanha, em entrevista ao Digital Trends.
+
+Essas conclusões já foram discutidas em outros estudos comportamentais. O desafio por aqui é encontrar uma forma de tornar o levantamento de padrões e a IA em um sistema que possa realizar exames precisos sobre o tema.
+
+Equipe assegura que sistema conseguiu prever a personalidade dos avaliados
+Os pesquisadores entrevistaram 42 estudantes e definiram diferentes tipos de personalidade pela Psicologia a partir de questionários. Em seguida, eles montaram um rastreador ocular em suas cabeças e realizaram novos exames. Com os dados obtidos com os movimentos dos olhos, então relacionaram os padrões.
+
+"Descobrimos que fomos capazes de prever com segurança quatro dos cinco principais traços de personalidade: neuroticismo, extroversão, agradabilidade e conscienciosidade — bem como a curiosidade perceptiva apenas dos movimentos dos olhos", explicou Bulling. Embora no projeto existam dilemas éticos em potencial — imagine um setor de Recursos Humanos usando essas informações para “filtrar” candidatos, por exemplo —, o cientista observa que há muitas aplicações positivas.
+
+"Robôs e computadores atualmente são socialmente ignorantes e não se adaptam aos sinais não verbais das pessoas. Quando conversamos (entre humanos), vemos e reagimos se alguém parece confuso, irritado, desinteressado, distraído e assim por diante. As interações com robôs e computadores se tornarão mais naturais e eficazes se eles puderem se adaptar às interações com base nos sinais não verbais de uma pessoa.”

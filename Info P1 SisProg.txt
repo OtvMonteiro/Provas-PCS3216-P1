@@ -1,0 +1,48 @@
+JJ
+projeto de software de sistema
+projetos pequenos que funcionam como questoes. Desenvolver os software e implementar
+10 dias. No ultimo dia tera bateria de testes
+Fazer a aplicação dos conhecimentos adquiridos ao longo das apresentações. Vai passar slides.
+P1 com peso 1 e P2 com peso 2 e P2 mais longo e complexo
+
+jjneto@gmail.com
+
+palavras-chave a escolha 
+tipo 1, tipo 2, tipo 3? tabela para diferentes tipos de palavra chave...
+substitui por um tipo só, optando por manter ou remover acentos para classificação
+demarcar linhas com aparencias?
+texto normal, contendo um texto comum de arquivo em formato txt;portanto pode ter qualquer cadeia ASCII
+
+professor, no enunciado 5, palavras com acento precisam ficar juntas das palavras sem acento, ou depois da sequencia? por exemplo: a,à,b ou a,b,à?
+o ideal é a primeira opção. 
+
+
+passar de minusculas para maiusculas (distancia constante 97(a)-65(A))
+usando uma ascii table, posso criar uma função que pega os intervalos de letras com caracteres especiais e passar para a versão desejada
+
+
+https://www.tutorialspoint.com/read-data-from-a-text-file-using-cplusplus
+https://www.cplusplus.com/reference/list/list/sort/
+https://www.cprogramming.com/tutorial/unicode.html
+
+usando .sort para listas, ele ordena por meio do caracter ascii. Posso usar o modo de comparação do sort para ordenar palavras com acento, fazendo a comparação de qual apresenta acento primeiro, depois de comparar a versão sem acento
+alternativamente posso usar uma lista duplamente linkada para realizar o sort por comparação individual
+
+temas: 
+1 computação quantica
+2 biotecnologia
+3 psicologia
+
+Glossarios
+4 
+5
+6
+
+
+"Marque nessa lista todas as palavras que tenham sido encontradas no
+glossário, e determine a percentagem de suas ocorrências no texto."
+pode ser relativo ao numero de palavras, as ocorrencias ou quantas das palavras do glossario apareceram
+
+inicialmente o classificador só capta textos muito próximos ao tema, devido ao baixo numero de palavras dos glossários e as variações 
+entre termos proximos, e.g. "comportamento", "comportamental", "comportamentais"
+A solução é ampliar os glossários, em numero de termos do tema e adicionando variações.

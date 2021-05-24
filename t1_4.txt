@@ -1,0 +1,22 @@
+
+Intel desenvolve controlador criogênico para computação quântica
+Imagem de: Intel desenvolve controlador criogênico para computação quântica
+Imagem: Marieke de Lorijn/Reprodução
+A Intel anunciou, nesta quarta-feira (12), que achou uma solução para resolver um gargalo de interconexão de computadores quânticos. A solução promete deixar a computação quântica ainda mais escalável, promovendo um avanço prático da tecnologia.
+
+De acordo com uma publicação em seu site oficial, a Intel explicou que a descoberta já foi publicada na revista científica Nature, uma das mais importantes do mundo. A solução foi desenvolvida em conjunto com a empresa QuTech, que surgiu em uma colaboração entre a Delft University of Technology e a Netherlands Organization for Applied Scientific Research.
+
+O equipamento desenvolvido se chama "Horse Ridge", uma peça criogênica que consegue realizar um controle de alta fidelidade de vários qubits de silício. Ele é revolucionário porque os gargalos de interconexão surgem por causa da diferença entre a temperatura dos chips quânticos e os complexos eletrônicos.
+
+IntelA foto mostra o chip controlador Horse Ridge montado em uma placa de circuito
+
+Enquanto os chips precisam ficar em temperaturas baixíssimas, em espécies de "geladeiras quânticas", que diminuem as perturbações do ambiente, os complexos eletrônicos ficam em temperatura ambiente.
+
+Com a utilização do Horse Ridge, que é um FinFet (Fin Field Effect Transistor) low power de 22 nanômetros, é possível realizar esse controle criogênico de uma maneira menos complexa.
+
+Além do controlador, a Intel também disse que conseguiu controlar 2 qubits (bit quântico) com apenas um cabo de radiofrequência. Anteriormente, era necessário um cabo específico para controlar cada qubit especificamente. Por isso, a descoberta foi importante porque ficaria inviável usar um cabo para cada qubit, pensando na escalabilidade futura da computação quântica e no aumento no número qubits nas operações.
+
+IntelRefrigerador de diluição utilizado pela Intel
+
+“Juntas, essas inovações pavimentam o caminho para a integração total de chips de controle quântico com o processador quântico no futuro, levantando um grande obstáculo no dimensionamento quântico”, afirmou Stefano Pellerano, engenheiro da Intel.
+

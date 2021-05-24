@@ -1,0 +1,4 @@
+g++ -Wall -c "%f"
+g++ -Wall -o "%e" "%f"
+cppcheck --language=c++ --enable=warning,style --template=gcc "%f"
+
